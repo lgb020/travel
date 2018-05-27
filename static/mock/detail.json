@@ -1,0 +1,37 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "故宫(AAAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_r_800x800_6edd8174.jpg", "http://img1.qunarzz.com/sight/p55/201211/04/fbcab3e5d6479ce893835fbb.jpg_r_800x800_6360f514.jpg","http://img1.qunarzz.com/wugc/p180/201306/16/7f08e81624346b1693835fbb.jpg_r_800x800_5f03ad73.jpg","http://img1.qunarzz.com/wugc/p123/201211/19/a2045d091f02b25493835fbb.png_r_800x800_c59f0eba.png","http://img1.qunarzz.com/sight/p0/1410/e3/73da8d3e19cdc41c1932d4fcd22ec792.water.jpg_r_800x800_7f96ccf9.jpg"],
+    "categoryList": [{
+        "title": "故宫预售成人票",
+        "children": [{
+          "title": "上午场"
+        },{
+          "title": "下午场"
+        }]
+      }, {
+        "title": "故宫预售学生票",
+        "children": [{
+          "title": "学生三馆特价联票"
+        },{
+          "title": "学生五馆特价联票"
+        }]
+      }, {
+        "title": "儿童票故宫预售老人票",
+        "children": [{
+          "title": "上午场"
+        },{
+          "title": "下午场"
+        }]
+      }, {
+        "title": "热销组合",
+        "children": [{
+          "title": "成人票+全景手绘地图"
+        },{
+          "title": "成人票+婴儿手推车出租"
+        }]
+      }]
+  }
+}

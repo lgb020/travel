@@ -1,0 +1,4 @@
+com.aptana.editor.common.px2remEnable=true
+com.aptana.editor.common.px2remProportion=50
+eclipse.preferences.version=1
+selectUserAgents=com.aptana.projects.webnature\:Android,Android-h5+,Chrome,Mozilla,IE,IOS-h5+,Safari
