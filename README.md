@@ -4,7 +4,10 @@
 基于Vue(2.5) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发的一款旅游 WebApp, UI参照去哪网旅行，REM适配常见移动端。
 
 ## 预览
-图片加载会有点慢，请耐心等待...
+动态图片加载会有点慢，请耐心等待...
+![首页](https://anqwjoe.github.io/travel/show/%E9%A6%96%E9%A1%B5.gif)
+![城市列表](https://anqwjoe.github.io/travel/show/%E5%9F%8E%E5%B8%82%E5%88%97%E8%A1%A8.gif)
+![景点详情](https://anqwjoe.github.io/travel/show/%E6%99%AF%E7%82%B9%E8%AF%A6%E6%83%85.gif)
 
 #### 首页、菜单、推荐
 
