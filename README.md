@@ -4,29 +4,29 @@
 基于Vue(2.5) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发的一款旅游 WebApp, UI参照去哪网旅行，REM适配常见移动端。
 
 ## 预览
-动态图片加载会有点慢，请耐心等待...
+动态图片加载会有点慢，请耐心等待...  
+
 ![首页](https://anqwjoe.github.io/travel/show/%E9%A6%96%E9%A1%B5.gif)
 ![城市列表](https://anqwjoe.github.io/travel/show/%E5%9F%8E%E5%B8%82%E5%88%97%E8%A1%A8.gif)
 ![景点详情](https://anqwjoe.github.io/travel/show/%E6%99%AF%E7%82%B9%E8%AF%A6%E6%83%85.gif)
 
 #### 首页、菜单、推荐
 
-![2qbUr.jpg](https://s1.ax2x.com/2018/05/27/2qbUr.jpg)
-![2qpnY.jpg](https://s1.ax2x.com/2018/05/27/2qpnY.jpg)
+![75AhX.jpg](https://s1.ax2x.com/2018/05/28/75AhX.jpg)
+![751my.jpg](https://s1.ax2x.com/2018/05/28/751my.jpg)
 
 #### 城市列表、搜索页面
 
-![2qJiX.jpg](https://s1.ax2x.com/2018/05/27/2qJiX.jpg)
-![2q4cy.jpg](https://s1.ax2x.com/2018/05/27/2q4cy.jpg)
-![2quQi.jpg](https://s1.ax2x.com/2018/05/27/2quQi.jpg)
+![75NpB.jpg](https://s1.ax2x.com/2018/05/28/75NpB.jpg)
+![75IDJ.jpg](https://s1.ax2x.com/2018/05/28/75IDJ.jpg)
+![75tNl.jpg](https://s1.ax2x.com/2018/05/28/75tNl.jpg)
 
 #### 景点详情、用户评论、轮播展示
 
-![2qvZJ.jpg](https://s1.ax2x.com/2018/05/27/2qvZJ.jpg)
-![2qyNB.jpg](https://s1.ax2x.com/2018/05/27/2qyNB.jpg)
-![2qa96.jpg](https://s1.ax2x.com/2018/05/27/2qa96.jpg)
-![2qhXl.jpg](https://s1.ax2x.com/2018/05/27/2qhXl.jpg)
-
+![75Sd3.jpg](https://s1.ax2x.com/2018/05/28/75Sd3.jpg)
+![75frK.jpg](https://s1.ax2x.com/2018/05/28/75frK.jpg)
+![75ixG.jpg](https://s1.ax2x.com/2018/05/28/75ixG.jpg)
+![75lop.jpg](https://s1.ax2x.com/2018/05/28/75lop.jpg)
 
 ## 开发目的
 通过学习开发一个 基于Vue 全家桶简单项目，让自己更熟练的使用 Vue 全家桶、模块化开发、ES6 等等知识，提高自己的技术能力。
@@ -73,7 +73,7 @@
 
 #### 景点详情页面
 
-使用Vuex 进行了组件间的数据联动。景点画廊使用 ```swiper awesome``` 实现 
+使用Vuex 进行了组件间的数据联动。景点画廊，评论图片使用 ```swiper awesome``` 实现 
 菜单拖动的渐隐渐显，及CSS3过渡动画的结合使用等。
 
 
